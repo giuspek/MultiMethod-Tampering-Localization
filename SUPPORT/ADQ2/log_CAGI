@@ -1,0 +1,2510 @@
+dev_0004.tif
+No map for dev_0004.tif 
+    0.1570
+
+    0.3188
+
+dev_0005.tif
+ADQ2
+dev_0006.tif
+ADQ2
+dev_0007.tif
+No map for dev_0007.tif 
+    0.2572
+
+    0.3241
+
+dev_0009.tif
+ADQ2
+dev_0011.tif
+No map for dev_0011.tif 
+    0.1926
+
+    0.3585
+
+dev_0013.tif
+CAGI INVdev_0013.tif
+    0.4623
+
+dev_0014.tif
+ADQ2
+dev_0016.tif
+No map for dev_0016.tif 
+    0.1803
+
+    0.2654
+
+dev_0017.tif
+No map for dev_0017.tif 
+    0.1903
+
+    0.2447
+
+dev_0018.tif
+CAGI INVdev_0018.tif
+    0.4248
+
+dev_0020.tif
+No map for dev_0020.tif 
+    0.3033
+
+    0.1747
+
+dev_0021.tif
+CAGI INVdev_0021.tif
+    0.4052
+
+dev_0022.tif
+ADQ2
+dev_0023.tif
+ADQ2
+dev_0024.tif
+ADQ2
+dev_0027.tif
+ADQ2
+dev_0028.tif
+CAGI INVdev_0028.tif
+    0.4045
+
+dev_0029.tif
+No map for dev_0029.tif 
+    0.1640
+
+    0.3268
+
+dev_0031.tif
+CAGI INVdev_0031.tif
+    0.4668
+
+dev_0034.tif
+No map for dev_0034.tif 
+    0.2717
+
+    0.3408
+
+dev_0036.tif
+Trasparency in dev_0036.tif
+>> get_map
+
+cameras =
+
+  1×4 cell array
+
+    {1×1 struct}    {1×1 struct}    {1×1 struct}    {1×1 struct}
+
+
+ans =
+
+   540     1
+
+dev_0004.tif
+No map for dev_0004.tif 
+    0.1570
+
+    0.3188
+
+dev_0005.tif
+ADQ2
+dev_0006.tif
+ADQ2
+dev_0007.tif
+No map for dev_0007.tif 
+    0.2572
+
+    0.3241
+
+dev_0009.tif
+ADQ2
+dev_0011.tif
+No map for dev_0011.tif 
+    0.1926
+
+    0.3585
+
+dev_0013.tif
+CAGI INVdev_0013.tif
+    0.4623
+
+dev_0014.tif
+ADQ2
+dev_0016.tif
+No map for dev_0016.tif 
+    0.1803
+
+    0.2654
+
+dev_0017.tif
+No map for dev_0017.tif 
+    0.1903
+
+    0.2447
+
+dev_0018.tif
+CAGI INVdev_0018.tif
+    0.4248
+
+dev_0020.tif
+No map for dev_0020.tif 
+    0.3033
+
+    0.1747
+
+dev_0021.tif
+CAGI INVdev_0021.tif
+    0.4052
+
+dev_0022.tif
+ADQ2
+dev_0023.tif
+ADQ2
+dev_0024.tif
+ADQ2
+dev_0027.tif
+ADQ2
+dev_0028.tif
+CAGI INVdev_0028.tif
+    0.4045
+
+dev_0029.tif
+No map for dev_0029.tif 
+    0.1640
+
+    0.3268
+
+dev_0031.tif
+CAGI INVdev_0031.tif
+    0.4668
+
+dev_0034.tif
+No map for dev_0034.tif 
+    0.2717
+
+    0.3408
+
+dev_0036.tif
+Trasparency in dev_0036.tif
+dev_0038.tif
+CAGIdev_0038.tif
+    0.6560
+
+dev_0040.tif
+No map for dev_0040.tif 
+    0.1986
+
+    0.2640
+
+dev_0041.tif
+CAGI INVdev_0041.tif
+    0.4739
+
+dev_0043.tif
+ADQ2
+dev_0046.tif
+No map for dev_0046.tif 
+    0.3276
+
+    0.3693
+
+dev_0048.tif
+No map for dev_0048.tif 
+    0.2704
+
+    0.2748
+
+dev_0049.tif
+CAGI INVdev_0049.tif
+    0.4397
+
+dev_0051.tif
+No map for dev_0051.tif 
+    0.3616
+
+    0.3286
+
+dev_0052.tif
+No map for dev_0052.tif 
+    0.1266
+
+    0.1238
+
+dev_0053.tif
+No map for dev_0053.tif 
+    0.2290
+
+    0.2915
+
+dev_0054.tif
+ADQ2
+dev_0057.tif
+No map for dev_0057.tif 
+    0.3168
+
+    0.3739
+
+dev_0059.tif
+CAGIdev_0059.tif
+    0.8484
+
+dev_0061.tif
+ADQ2
+dev_0062.tif
+No map for dev_0062.tif 
+    0.1229
+
+    0.3473
+
+dev_0063.tif
+CAGI INVdev_0063.tif
+    0.4480
+
+dev_0064.tif
+No map for dev_0064.tif 
+    0.2125
+
+    0.2409
+
+dev_0066.tif
+No map for dev_0066.tif 
+    0.1768
+
+    0.3741
+
+dev_0067.tif
+No map for dev_0067.tif 
+    0.1614
+
+    0.3423
+
+dev_0068.tif
+No map for dev_0068.tif 
+    0.2004
+
+    0.3127
+
+dev_0070.tif
+No map for dev_0070.tif 
+    0.1584
+
+    0.3568
+
+dev_0071.tif
+ADQ2
+dev_0072.tif
+No map for dev_0072.tif 
+    0.2478
+
+    0.2040
+
+dev_0073.tif
+No map for dev_0073.tif 
+    0.3633
+
+    0.2241
+
+dev_0076.tif
+No map for dev_0076.tif 
+    0.2365
+
+    0.2536
+
+dev_0077.tif
+CAGI INVdev_0077.tif
+    0.4006
+
+dev_0078.tif
+No map for dev_0078.tif 
+    0.2440
+
+    0.3630
+
+dev_0079.tif
+No map for dev_0079.tif 
+    0.2624
+
+    0.3144
+
+dev_0083.tif
+No map for dev_0083.tif 
+    0.2341
+
+    0.3076
+
+dev_0089.tif
+No map for dev_0089.tif 
+    0.1901
+
+    0.3786
+
+dev_0091.tif
+CAGI INVdev_0091.tif
+    0.4138
+
+dev_0092.tif
+ADQ2
+dev_0093.tif
+No map for dev_0093.tif 
+    0.3919
+
+    0.2932
+
+dev_0094.tif
+No map for dev_0094.tif 
+    0.1884
+
+    0.2699
+
+dev_0095.tif
+No map for dev_0095.tif 
+    0.2802
+
+    0.1440
+
+dev_0096.tif
+ADQ2
+dev_0098.tif
+No map for dev_0098.tif 
+    0.4819
+
+    0.3485
+
+dev_0099.tif
+ADQ2
+dev_0100.tif
+CAGI INVdev_0100.tif
+    0.4052
+
+dev_0101.tif
+ADQ2
+dev_0102.tif
+ADQ2
+dev_0104.tif
+ADQ2
+dev_0105.tif
+No map for dev_0105.tif 
+    0.3591
+
+    0.2114
+
+dev_0106.tif
+CAGI INVdev_0106.tif
+    0.4111
+
+dev_0107.tif
+ADQ2
+dev_0108.tif
+ADQ2
+dev_0109.tif
+CAGI INVdev_0109.tif
+    0.4809
+
+dev_0110.tif
+No map for dev_0110.tif 
+    0.2024
+
+    0.3883
+
+dev_0114.tif
+CAGI INVdev_0114.tif
+    0.4163
+
+dev_0115.tif
+ADQ2
+dev_0117.tif
+No map for dev_0117.tif 
+    0.1735
+
+    0.2768
+
+dev_0118.tif
+ADQ2
+dev_0122.tif
+No map for dev_0122.tif 
+    0.2708
+
+    0.2229
+
+dev_0124.tif
+ADQ2
+dev_0129.tif
+No map for dev_0129.tif 
+    0.4245
+
+    0.2176
+
+dev_0130.tif
+CAGI INVdev_0130.tif
+    0.5783
+
+dev_0131.tif
+ADQ2
+dev_0133.tif
+No map for dev_0133.tif 
+    0.2093
+
+    0.3527
+
+dev_0134.tif
+ADQ2
+dev_0135.tif
+ADQ2
+dev_0136.tif
+No map for dev_0136.tif 
+    0.3056
+
+    0.3682
+
+dev_0137.tif
+ADQ2
+dev_0141.tif
+No map for dev_0141.tif 
+    0.3486
+
+    0.2457
+
+dev_0142.tif
+No map for dev_0142.tif 
+    0.3943
+
+    0.2294
+
+dev_0145.tif
+No map for dev_0145.tif 
+    0.2273
+
+    0.3531
+
+dev_0147.tif
+ADQ2
+dev_0148.tif
+ADQ2
+dev_0149.tif
+No map for dev_0149.tif 
+    0.2561
+
+    0.3012
+
+dev_0152.tif
+CAGIdev_0152.tif
+    0.5311
+
+dev_0153.tif
+ADQ2
+dev_0154.tif
+CAGI INVdev_0154.tif
+    0.4208
+
+dev_0155.tif
+CAGI INVdev_0155.tif
+    0.4157
+
+dev_0156.tif
+No map for dev_0156.tif 
+    0.1238
+
+    0.1020
+
+dev_0159.tif
+ADQ2
+dev_0160.tif
+No map for dev_0160.tif 
+    0.3315
+
+    0.2849
+
+dev_0161.tif
+ADQ2
+dev_0162.tif
+No map for dev_0162.tif 
+    0.2537
+
+    0.3277
+
+dev_0163.tif
+No map for dev_0163.tif 
+    0.2141
+
+    0.2880
+
+dev_0165.tif
+No map for dev_0165.tif 
+    0.3539
+
+    0.3542
+
+dev_0166.tif
+No map for dev_0166.tif 
+    0.2051
+
+    0.2737
+
+dev_0167.tif
+No map for dev_0167.tif 
+    0.3109
+
+    0.2305
+
+dev_0170.tif
+No map for dev_0170.tif 
+    0.2923
+
+    0.2106
+
+dev_0171.tif
+ADQ2
+dev_0172.tif
+No map for dev_0172.tif 
+    0.2307
+
+    0.2579
+
+dev_0174.tif
+No map for dev_0174.tif 
+    0.1776
+
+    0.3805
+
+dev_0176.tif
+No map for dev_0176.tif 
+    0.2138
+
+    0.3392
+
+dev_0177.tif
+No map for dev_0177.tif 
+    0.2074
+
+    0.2275
+
+dev_0178.tif
+No map for dev_0178.tif 
+    0.3176
+
+    0.2720
+
+dev_0179.tif
+CAGI INVdev_0179.tif
+    0.4731
+
+dev_0180.tif
+No map for dev_0180.tif 
+    0.3698
+
+    0.2626
+
+dev_0181.tif
+ADQ2
+dev_0184.tif
+No map for dev_0184.tif 
+    0.1927
+
+    0.2626
+
+dev_0186.tif
+No map for dev_0186.tif 
+    0.3125
+
+    0.3380
+
+dev_0187.tif
+ADQ2
+dev_0188.tif
+No map for dev_0188.tif 
+    0.2012
+
+    0.2235
+
+dev_0189.tif
+No map for dev_0189.tif 
+    0.1790
+
+    0.3558
+
+dev_0190.tif
+No map for dev_0190.tif 
+    0.2799
+
+    0.3643
+
+dev_0191.tif
+No map for dev_0191.tif 
+    0.1822
+
+    0.3270
+
+dev_0192.tif
+ADQ2
+dev_0193.tif
+ADQ2
+dev_0194.tif
+No map for dev_0194.tif 
+    0.1746
+
+    0.3411
+
+dev_0195.tif
+No map for dev_0195.tif 
+    0.0880
+
+    0.3755
+
+dev_0196.tif
+No map for dev_0196.tif 
+    0.2657
+
+    0.2609
+
+dev_0197.tif
+No map for dev_0197.tif 
+    0.1794
+
+    0.3027
+
+dev_0200.tif
+No map for dev_0200.tif 
+    0.2012
+
+    0.3406
+
+dev_0202.tif
+No map for dev_0202.tif 
+    0.1887
+
+    0.3339
+
+dev_0203.tif
+No map for dev_0203.tif 
+    0.2048
+
+    0.3354
+
+dev_0204.tif
+No map for dev_0204.tif 
+    0.2316
+
+    0.2424
+
+dev_0205.tif
+ADQ2
+dev_0207.tif
+No map for dev_0207.tif 
+    0.4387
+
+    0.2160
+
+dev_0208.tif
+No map for dev_0208.tif 
+    0.3010
+
+    0.2751
+
+dev_0209.tif
+ADQ2
+dev_0210.tif
+No map for dev_0210.tif 
+    0.4955
+
+    0.3288
+
+dev_0212.tif
+CAGIdev_0212.tif
+    0.8710
+
+dev_0214.tif
+No map for dev_0214.tif 
+    0.2087
+
+    0.3205
+
+dev_0216.tif
+CAGI INVdev_0216.tif
+    0.5014
+
+dev_0217.tif
+ADQ2
+dev_0218.tif
+CAGI INVdev_0218.tif
+    0.4320
+
+dev_0220.tif
+CAGI INVdev_0220.tif
+    0.4084
+
+dev_0222.tif
+ADQ2
+dev_0223.tif
+No map for dev_0223.tif 
+    0.3108
+
+    0.1154
+
+dev_0224.tif
+ADQ2
+dev_0225.tif
+No map for dev_0225.tif 
+    0.2821
+
+    0.2819
+
+dev_0227.tif
+No map for dev_0227.tif 
+    0.3022
+
+    0.2490
+
+dev_0228.tif
+No map for dev_0228.tif 
+    0.3281
+
+    0.3254
+
+dev_0229.tif
+No map for dev_0229.tif 
+    0.1484
+
+    0.4444
+
+dev_0231.tif
+No map for dev_0231.tif 
+    0.1577
+
+    0.3074
+
+dev_0233.tif
+No map for dev_0233.tif 
+    0.2186
+
+    0.2449
+
+dev_0235.tif
+No map for dev_0235.tif 
+    0.4112
+
+    0.2103
+
+dev_0236.tif
+No map for dev_0236.tif 
+    0.2156
+
+    0.2798
+
+dev_0238.tif
+No map for dev_0238.tif 
+    0.1570
+
+    0.3820
+
+dev_0239.tif
+No map for dev_0239.tif 
+    0.1721
+
+    0.3103
+
+dev_0240.tif
+ADQ2
+dev_0241.tif
+No map for dev_0241.tif 
+    0.3204
+
+    0.2195
+
+dev_0242.tif
+ADQ2
+dev_0247.tif
+ADQ2
+dev_0248.tif
+No map for dev_0248.tif 
+    0.3142
+
+    0.2986
+
+dev_0249.tif
+ADQ2
+dev_0250.tif
+No map for dev_0250.tif 
+    0.3166
+
+    0.2614
+
+dev_0251.tif
+ADQ2
+dev_0253.tif
+No map for dev_0253.tif 
+    0.1155
+
+    0.3889
+
+dev_0254.tif
+ADQ2
+dev_0255.tif
+No map for dev_0255.tif 
+    0.1946
+
+    0.3863
+
+dev_0256.tif
+Trasparency in dev_0256.tif
+dev_0257.tif
+No map for dev_0257.tif 
+    0.3033
+
+    0.1747
+
+dev_0259.tif
+No map for dev_0259.tif 
+    0.1467
+
+    0.3462
+
+dev_0260.tif
+No map for dev_0260.tif 
+    0.1929
+
+    0.2927
+
+dev_0261.tif
+No map for dev_0261.tif 
+    0.1577
+
+    0.3764
+
+dev_0262.tif
+ADQ2
+dev_0263.tif
+No map for dev_0263.tif 
+    0.2965
+
+    0.4089
+
+dev_0268.tif
+No map for dev_0268.tif 
+    0.2812
+
+    0.3043
+
+dev_0269.tif
+Trasparency in dev_0269.tif
+dev_0271.tif
+ADQ2
+dev_0274.tif
+ADQ2
+dev_0275.tif
+No map for dev_0275.tif 
+    0.2552
+
+    0.3005
+
+dev_0276.tif
+CAGI INVdev_0276.tif
+    0.4142
+
+dev_0277.tif
+CAGIdev_0277.tif
+    0.6338
+
+dev_0278.tif
+No map for dev_0278.tif 
+    0.2917
+
+    0.2819
+
+dev_0280.tif
+No map for dev_0280.tif 
+    0.1891
+
+    0.3307
+
+dev_0281.tif
+No map for dev_0281.tif 
+    0.2985
+
+    0.2790
+
+dev_0282.tif
+No map for dev_0282.tif 
+    0.2986
+
+    0.1944
+
+dev_0285.tif
+ADQ2
+dev_0286.tif
+ADQ2
+dev_0287.tif
+No map for dev_0287.tif 
+    0.3644
+
+    0.3522
+
+dev_0289.tif
+CAGI INVdev_0289.tif
+    0.4667
+
+dev_0290.tif
+No map for dev_0290.tif 
+    0.3295
+
+    0.2481
+
+dev_0291.tif
+No map for dev_0291.tif 
+    0.2201
+
+    0.2929
+
+dev_0292.tif
+No map for dev_0292.tif 
+    0.2698
+
+    0.3713
+
+dev_0293.tif
+No map for dev_0293.tif 
+    0.2104
+
+    0.3052
+
+dev_0295.tif
+No map for dev_0295.tif 
+    0.4306
+
+    0.3655
+
+dev_0296.tif
+No map for dev_0296.tif 
+    0.4665
+
+    0.3490
+
+dev_0301.tif
+ADQ2
+dev_0303.tif
+No map for dev_0303.tif 
+    0.3560
+
+    0.3791
+
+dev_0304.tif
+No map for dev_0304.tif 
+    0.2801
+
+    0.2642
+
+dev_0305.tif
+ADQ2
+dev_0306.tif
+No map for dev_0306.tif 
+    0.2906
+
+    0.2709
+
+dev_0307.tif
+ADQ2
+dev_0308.tif
+No map for dev_0308.tif 
+    0.2253
+
+    0.3145
+
+dev_0309.tif
+No map for dev_0309.tif 
+    0.4938
+
+    0.3225
+
+dev_0311.tif
+No map for dev_0311.tif 
+    0.2181
+
+    0.3397
+
+dev_0313.tif
+ADQ2
+dev_0314.tif
+ADQ2
+dev_0315.tif
+No map for dev_0315.tif 
+    0.2974
+
+    0.2698
+
+dev_0316.tif
+No map for dev_0316.tif 
+    0.4660
+
+    0.3018
+
+dev_0319.tif
+CAGI INVdev_0319.tif
+    0.4683
+
+dev_0320.tif
+No map for dev_0320.tif 
+    0.2623
+
+    0.3707
+
+dev_0321.tif
+ADQ2
+dev_0324.tif
+CAGIdev_0324.tif
+    0.5032
+
+dev_0325.tif
+ADQ2
+dev_0327.tif
+No map for dev_0327.tif 
+    0.1890
+
+    0.3122
+
+dev_0328.tif
+No map for dev_0328.tif 
+    0.2200
+
+    0.2887
+
+dev_0329.tif
+No map for dev_0329.tif 
+    0.3928
+
+    0.2474
+
+dev_0332.tif
+No map for dev_0332.tif 
+    0.1667
+
+    0.3331
+
+dev_0333.tif
+ADQ2
+dev_0334.tif
+No map for dev_0334.tif 
+    0.2006
+
+    0.3254
+
+dev_0335.tif
+ADQ2
+dev_0336.tif
+No map for dev_0336.tif 
+    0.3018
+
+    0.2942
+
+dev_0338.tif
+ADQ2
+dev_0339.tif
+ADQ2
+dev_0340.tif
+No map for dev_0340.tif 
+    0.1870
+
+    0.2989
+
+dev_0341.tif
+No map for dev_0341.tif 
+    0.2361
+
+    0.3194
+
+dev_0342.tif
+ADQ2
+dev_0344.tif
+ADQ2
+dev_0345.tif
+ADQ2
+dev_0346.tif
+No map for dev_0346.tif 
+    0.2446
+
+    0.2569
+
+dev_0348.tif
+No map for dev_0348.tif 
+    0.1745
+
+    0.3350
+
+dev_0349.tif
+ADQ2
+dev_0350.tif
+CAGI INVdev_0350.tif
+    0.4332
+
+dev_0351.tif
+CAGI INVdev_0351.tif
+    0.4884
+
+dev_0352.tif
+No map for dev_0352.tif 
+    0.1711
+
+    0.3395
+
+dev_0353.tif
+CAGI INVdev_0353.tif
+    0.3956
+
+dev_0354.tif
+CAGIdev_0354.tif
+    0.5958
+
+dev_0355.tif
+No map for dev_0355.tif 
+    0.0886
+
+    0.1913
+
+dev_0357.tif
+No map for dev_0357.tif 
+    0.4433
+
+    0.3242
+
+dev_0360.tif
+No map for dev_0360.tif 
+    0.4210
+
+    0.3639
+
+dev_0361.tif
+CAGI INVdev_0361.tif
+    0.4707
+
+dev_0362.tif
+No map for dev_0362.tif 
+    0.1425
+
+    0.3245
+
+dev_0363.tif
+No map for dev_0363.tif 
+    0.1638
+
+    0.3786
+
+dev_0364.tif
+ADQ2
+dev_0366.tif
+No map for dev_0366.tif 
+    0.2067
+
+    0.3323
+
+dev_0367.tif
+CAGI INVdev_0367.tif
+    0.4321
+
+dev_0368.tif
+ADQ2
+dev_0369.tif
+ADQ2
+dev_0370.tif
+No map for dev_0370.tif 
+    0.2023
+
+    0.2941
+
+dev_0371.tif
+No map for dev_0371.tif 
+    0.3512
+
+    0.1785
+
+dev_0372.tif
+ADQ2
+dev_0373.tif
+No map for dev_0373.tif 
+    0.2227
+
+    0.3540
+
+dev_0374.tif
+ADQ2
+dev_0375.tif
+No map for dev_0375.tif 
+    0.2417
+
+    0.2064
+
+dev_0376.tif
+ADQ2
+dev_0380.tif
+ADQ2
+dev_0382.tif
+No map for dev_0382.tif 
+    0.1838
+
+    0.3086
+
+dev_0383.tif
+No map for dev_0383.tif 
+    0.2242
+
+    0.3325
+
+dev_0384.tif
+CAGI INVdev_0384.tif
+    0.3931
+
+dev_0387.tif
+No map for dev_0387.tif 
+    0.3749
+
+    0.3350
+
+dev_0388.tif
+No map for dev_0388.tif 
+    0.3325
+
+    0.2592
+
+dev_0389.tif
+No map for dev_0389.tif 
+    0.2730
+
+    0.2873
+
+dev_0391.tif
+ADQ2
+dev_0393.tif
+CAGI INVdev_0393.tif
+    0.4179
+
+dev_0395.tif
+No map for dev_0395.tif 
+    0.1854
+
+    0.2955
+
+dev_0397.tif
+ADQ2
+dev_0398.tif
+ADQ2
+dev_0401.tif
+No map for dev_0401.tif 
+    0.1182
+
+    0.3983
+
+dev_0403.tif
+Trasparency in dev_0403.tif
+dev_0404.tif
+No map for dev_0404.tif 
+    0.2491
+
+    0.2624
+
+dev_0405.tif
+ADQ2
+dev_0406.tif
+No map for dev_0406.tif 
+    0.2821
+
+    0.3143
+
+dev_0409.tif
+No map for dev_0409.tif 
+    0.1519
+
+    0.3097
+
+dev_0410.tif
+CAGI INVdev_0410.tif
+    0.4400
+
+dev_0412.tif
+No map for dev_0412.tif 
+    0.1667
+
+    0.3677
+
+dev_0413.tif
+ADQ2
+dev_0415.tif
+CAGIdev_0415.tif
+    0.5982
+
+dev_0416.tif
+CAGIdev_0416.tif
+    0.5452
+
+dev_0417.tif
+No map for dev_0417.tif 
+    0.1832
+
+    0.3067
+
+dev_0419.tif
+CAGI INVdev_0419.tif
+    0.4389
+
+dev_0420.tif
+ADQ2
+dev_0422.tif
+ADQ2
+dev_0423.tif
+ADQ2
+dev_0424.tif
+ADQ2
+dev_0425.tif
+ADQ2
+dev_0426.tif
+No map for dev_0426.tif 
+    0.1121
+
+    0.3743
+
+dev_0430.tif
+No map for dev_0430.tif 
+    0.2736
+
+    0.2361
+
+dev_0432.tif
+No map for dev_0432.tif 
+    0.1966
+
+    0.3768
+
+dev_0433.tif
+ADQ2
+dev_0434.tif
+No map for dev_0434.tif 
+    0.2398
+
+    0.3744
+
+dev_0435.tif
+ADQ2
+dev_0436.tif
+No map for dev_0436.tif 
+    0.3241
+
+    0.3121
+
+dev_0438.tif
+No map for dev_0438.tif 
+    0.1866
+
+    0.3858
+
+dev_0439.tif
+No map for dev_0439.tif 
+    0.2759
+
+    0.3407
+
+dev_0441.tif
+No map for dev_0441.tif 
+    0.4397
+
+    0.2441
+
+dev_0442.tif
+ADQ2
+dev_0443.tif
+ADQ2
+dev_0444.tif
+No map for dev_0444.tif 
+    0.1636
+
+    0.3317
+
+dev_0448.tif
+No map for dev_0448.tif 
+    0.2011
+
+    0.3176
+
+dev_0449.tif
+ADQ2
+dev_0450.tif
+No map for dev_0450.tif 
+    0.1607
+
+    0.3261
+
+dev_0451.tif
+No map for dev_0451.tif 
+    0.4660
+
+    0.3855
+
+dev_0453.tif
+No map for dev_0453.tif 
+    0.2662
+
+    0.1974
+
+dev_0454.tif
+No map for dev_0454.tif 
+    0.1603
+
+    0.3645
+
+dev_0455.tif
+No map for dev_0455.tif 
+    0.2419
+
+    0.2852
+
+dev_0456.tif
+No map for dev_0456.tif 
+    0.1773
+
+    0.2636
+
+dev_0457.tif
+No map for dev_0457.tif 
+    0.2781
+
+    0.2424
+
+dev_0458.tif
+No map for dev_0458.tif 
+    0.4903
+
+    0.6597
+
+dev_0460.tif
+No map for dev_0460.tif 
+    0.2459
+
+    0.2422
+
+dev_0462.tif
+ADQ2
+dev_0463.tif
+ADQ2
+dev_0464.tif
+No map for dev_0464.tif 
+    0.2385
+
+    0.3298
+
+dev_0465.tif
+No map for dev_0465.tif 
+    0.1315
+
+    0.3498
+
+dev_0466.tif
+No map for dev_0466.tif 
+    0.4907
+
+    0.2533
+
+dev_0467.tif
+ADQ2
+dev_0468.tif
+No map for dev_0468.tif 
+    0.0986
+
+    0.3761
+
+dev_0469.tif
+No map for dev_0469.tif 
+    0.2889
+
+    0.3811
+
+dev_0470.tif
+No map for dev_0470.tif 
+    0.1788
+
+    0.2609
+
+dev_0471.tif
+CAGI INVdev_0471.tif
+    0.4042
+
+dev_0472.tif
+CAGI INVdev_0472.tif
+    0.4026
+
+dev_0476.tif
+No map for dev_0476.tif 
+    0.3060
+
+    0.3862
+
+dev_0477.tif
+No map for dev_0477.tif 
+    0.2567
+
+    0.3513
+
+dev_0481.tif
+No map for dev_0481.tif 
+    0.3343
+
+    0.2945
+
+dev_0482.tif
+CAGI INVdev_0482.tif
+    0.4039
+
+dev_0483.tif
+No map for dev_0483.tif 
+    0.2627
+
+    0.2548
+
+dev_0485.tif
+ADQ2
+dev_0486.tif
+ADQ2
+dev_0490.tif
+ADQ2
+dev_0491.tif
+No map for dev_0491.tif 
+    0.1789
+
+    0.3652
+
+dev_0492.tif
+ADQ2
+dev_0494.tif
+No map for dev_0494.tif 
+    0.2854
+
+    0.2126
+
+dev_0495.tif
+No map for dev_0495.tif 
+    0.2413
+
+    0.3263
+
+dev_0498.tif
+No map for dev_0498.tif 
+    0.2919
+
+    0.3592
+
+dev_0499.tif
+No map for dev_0499.tif 
+    0.2059
+
+    0.2778
+
+dev_0500.tif
+No map for dev_0500.tif 
+    0.1890
+
+    0.3193
+
+dev_0502.tif
+No map for dev_0502.tif 
+    0.2671
+
+    0.2873
+
+dev_0503.tif
+CAGI INVdev_0503.tif
+    0.4121
+
+dev_0504.tif
+No map for dev_0504.tif 
+    0.2197
+
+    0.2576
+
+dev_0505.tif
+ADQ2
+dev_0506.tif
+Trasparency in dev_0506.tif
+dev_0507.tif
+No map for dev_0507.tif 
+    0.2223
+
+    0.3013
+
+dev_0508.tif
+No map for dev_0508.tif 
+    0.1969
+
+    0.3024
+
+dev_0509.tif
+ADQ2
+dev_0510.tif
+ADQ2
+dev_0511.tif
+CAGI INVdev_0511.tif
+    0.4377
+
+dev_0512.tif
+No map for dev_0512.tif 
+    0.2718
+
+    0.3817
+
+dev_0515.tif
+No map for dev_0515.tif 
+    0.1397
+
+    0.3584
+
+dev_0516.tif
+ADQ2
+dev_0517.tif
+No map for dev_0517.tif 
+    0.1884
+
+    0.2973
+
+dev_0520.tif
+No map for dev_0520.tif 
+    0.2799
+
+    0.1670
+
+dev_0522.tif
+CAGIdev_0522.tif
+    0.6413
+
+dev_0524.tif
+No map for dev_0524.tif 
+    0.4190
+
+    0.1857
+
+dev_0525.tif
+No map for dev_0525.tif 
+    0.2195
+
+    0.2867
+
+dev_0526.tif
+No map for dev_0526.tif 
+    0.1765
+
+    0.3599
+
+dev_0532.tif
+No map for dev_0532.tif 
+    0.1945
+
+    0.2798
+
+dev_0533.tif
+No map for dev_0533.tif 
+    0.2599
+
+    0.3084
+
+dev_0534.tif
+ADQ2
+dev_0535.tif
+ADQ2
+dev_0536.tif
+CAGI INVdev_0536.tif
+    0.4353
+
+dev_0537.tif
+No map for dev_0537.tif 
+    0.1626
+
+    0.3800
+
+dev_0538.tif
+CAGI INVdev_0538.tif
+    0.4134
+
+dev_0540.tif
+No map for dev_0540.tif 
+    0.2825
+
+    0.3555
+
+dev_0541.tif
+No map for dev_0541.tif 
+    0.2579
+
+    0.2902
+
+dev_0542.tif
+No map for dev_0542.tif 
+    0.1601
+
+    0.3683
+
+dev_0543.tif
+CAGI INVdev_0543.tif
+    0.5244
+
+dev_0546.tif
+CAGI INVdev_0546.tif
+    0.4542
+
+dev_0548.tif
+ADQ2
+dev_0549.tif
+No map for dev_0549.tif 
+    0.1942
+
+    0.3160
+
+dev_0550.tif
+ADQ2
+dev_0551.tif
+ADQ2
+dev_0552.tif
+No map for dev_0552.tif 
+    0.1906
+
+    0.3069
+
+dev_0555.tif
+No map for dev_0555.tif 
+    0.2722
+
+    0.3332
+
+dev_0556.tif
+No map for dev_0556.tif 
+    0.2977
+
+    0.2451
+
+dev_0560.tif
+No map for dev_0560.tif 
+    0.1961
+
+    0.3220
+
+dev_0561.tif
+No map for dev_0561.tif 
+    0.2641
+
+    0.3043
+
+dev_0562.tif
+No map for dev_0562.tif 
+    0.4577
+
+    0.3351
+
+dev_0563.tif
+ADQ2
+dev_0565.tif
+ADQ2
+dev_0566.tif
+No map for dev_0566.tif 
+    0.2112
+
+    0.3518
+
+dev_0567.tif
+ADQ2
+dev_0569.tif
+No map for dev_0569.tif 
+    0.2721
+
+    0.2412
+
+dev_0570.tif
+ADQ2
+dev_0571.tif
+No map for dev_0571.tif 
+    0.2139
+
+    0.3239
+
+dev_0572.tif
+CAGI INVdev_0572.tif
+    0.4084
+
+dev_0574.tif
+No map for dev_0574.tif 
+    0.2394
+
+    0.3093
+
+dev_0575.tif
+ADQ2
+dev_0577.tif
+No map for dev_0577.tif 
+    0.2183
+
+    0.3145
+
+dev_0578.tif
+CAGI INVdev_0578.tif
+    0.5827
+
+dev_0579.tif
+ADQ2
+dev_0580.tif
+No map for dev_0580.tif 
+    0.2880
+
+    0.2759
+
+dev_0581.tif
+No map for dev_0581.tif 
+    0.4889
+
+    0.0604
+
+dev_0582.tif
+No map for dev_0582.tif 
+    0.4293
+
+    0.4356
+
+dev_0583.tif
+CAGI INVdev_0583.tif
+    0.3944
+
+dev_0584.tif
+ADQ2
+dev_0585.tif
+CAGI INVdev_0585.tif
+    0.4645
+
+dev_0587.tif
+No map for dev_0587.tif 
+    0.2831
+
+    0.3221
+
+dev_0588.tif
+No map for dev_0588.tif 
+    0.2737
+
+    0.3508
+
+dev_0589.tif
+No map for dev_0589.tif 
+    0.3519
+
+    0.1535
+
+dev_0591.tif
+No map for dev_0591.tif 
+    0.3724
+
+    0.3149
+
+dev_0592.tif
+ADQ2
+dev_0593.tif
+ADQ2
+dev_0594.tif
+No map for dev_0594.tif 
+    0.3848
+
+    0.2358
+
+dev_0595.tif
+ADQ2
+dev_0596.tif
+No map for dev_0596.tif 
+    0.2690
+
+    0.2646
+
+dev_0597.tif
+ADQ2
+dev_0599.tif
+ADQ2
+dev_0602.tif
+CAGI INVdev_0602.tif
+    0.4320
+
+dev_0603.tif
+ADQ2
+dev_0608.tif
+No map for dev_0608.tif 
+    0.2553
+
+    0.2489
+
+dev_0609.tif
+ADQ2
+dev_0610.tif
+No map for dev_0610.tif 
+    0.0962
+
+    0.4171
+
+dev_0611.tif
+No map for dev_0611.tif 
+    0.2226
+
+    0.3459
+
+dev_0612.tif
+ADQ2
+dev_0616.tif
+No map for dev_0616.tif 
+    0.1513
+
+    0.3867
+
+dev_0617.tif
+No map for dev_0617.tif 
+    0.2444
+
+    0.2804
+
+dev_0618.tif
+No map for dev_0618.tif 
+    0.4187
+
+    0.3381
+
+dev_0619.tif
+No map for dev_0619.tif 
+    0.2080
+
+    0.2790
+
+dev_0620.tif
+No map for dev_0620.tif 
+    0.2978
+
+    0.1966
+
+dev_0621.tif
+No map for dev_0621.tif 
+    0.1870
+
+    0.2877
+
+dev_0622.tif
+ADQ2
+dev_0623.tif
+No map for dev_0623.tif 
+    0.2318
+
+    0.2374
+
+dev_0624.tif
+Trasparency in dev_0624.tif
+dev_0625.tif
+CAGI INVdev_0625.tif
+    0.3930
+
+dev_0626.tif
+No map for dev_0626.tif 
+    0.3106
+
+    0.3750
+
+dev_0627.tif
+CAGI INVdev_0627.tif
+    0.4120
+
+dev_0628.tif
+No map for dev_0628.tif 
+    0.1567
+
+    0.1856
+
+dev_0629.tif
+No map for dev_0629.tif 
+    0.2644
+
+    0.3416
+
+dev_0630.tif
+ADQ2
+dev_0632.tif
+No map for dev_0632.tif 
+    0.2278
+
+    0.2240
+
+dev_0634.tif
+No map for dev_0634.tif 
+    0.2264
+
+    0.2500
+
+dev_0635.tif
+ADQ2
+dev_0637.tif
+ADQ2
+dev_0638.tif
+ADQ2
+dev_0639.tif
+No map for dev_0639.tif 
+    0.1760
+
+    0.3577
+
+dev_0641.tif
+ADQ2
+dev_0643.tif
+No map for dev_0643.tif 
+    0.2623
+
+    0.2645
+
+dev_0644.tif
+ADQ2
+dev_0646.tif
+CAGI INVdev_0646.tif
+    0.4877
+
+dev_0647.tif
+CAGI INVdev_0647.tif
+    0.3922
+
+dev_0649.tif
+Trasparency in dev_0649.tif
+dev_0650.tif
+ADQ2
+dev_0651.tif
+No map for dev_0651.tif 
+    0.2620
+
+    0.3297
+
+dev_0653.tif
+ADQ2
+dev_0654.tif
+ADQ2
+dev_0655.tif
+ADQ2
+dev_0656.tif
+ADQ2
+dev_0657.tif
+ADQ2
+dev_0658.tif
+No map for dev_0658.tif 
+    0.1750
+
+    0.3299
+
+dev_0661.tif
+No map for dev_0661.tif 
+    0.1787
+
+    0.3474
+
+dev_0662.tif
+No map for dev_0662.tif 
+    0.1540
+
+    0.3044
+
+dev_0663.tif
+No map for dev_0663.tif 
+    0.3180
+
+    0.2453
+
+dev_0664.tif
+No map for dev_0664.tif 
+    0.2593
+
+    0.2216
+
+dev_0666.tif
+No map for dev_0666.tif 
+    0.1783
+
+    0.3085
+
+dev_0667.tif
+No map for dev_0667.tif 
+    0.4224
+
+    0.2701
+
+dev_0668.tif
+No map for dev_0668.tif 
+    0.3076
+
+    0.2329
+
+dev_0669.tif
+No map for dev_0669.tif 
+    0.2122
+
+    0.3464
+
+dev_0671.tif
+ADQ2
+dev_0672.tif
+No map for dev_0672.tif 
+    0.1940
+
+    0.3679
+
+dev_0673.tif
+No map for dev_0673.tif 
+    0.3598
+
+    0.1991
+
+dev_0675.tif
+CAGI INVdev_0675.tif
+    0.4668
+
+dev_0676.tif
+CAGI INVdev_0676.tif
+    0.4422
+
+dev_0677.tif
+ADQ2
+dev_0678.tif
+ADQ2
+dev_0680.tif
+No map for dev_0680.tif 
+    0.1196
+
+    0.3848
+
+dev_0681.tif
+ADQ2
+dev_0682.tif
+No map for dev_0682.tif 
+    0.2400
+
+    0.3616
+
+dev_0683.tif
+CAGI INVdev_0683.tif
+    0.4299
+
+dev_0684.tif
+No map for dev_0684.tif 
+    0.3259
+
+    0.2890
+
+dev_0685.tif
+CAGI INVdev_0685.tif
+    0.4178
+
+dev_0688.tif
+No map for dev_0688.tif 
+    0.2533
+
+    0.3128
+
+dev_0689.tif
+No map for dev_0689.tif 
+    0.2732
+
+    0.3133
+
+dev_0691.tif
+No map for dev_0691.tif 
+    0.1671
+
+    0.3490
+
+dev_0694.tif
+ADQ2
+dev_0695.tif
+No map for dev_0695.tif 
+    0.2763
+
+    0.3837
+
+dev_0697.tif
+No map for dev_0697.tif 
+    0.4335
+
+    0.3148
+
+dev_0700.tif
+No map for dev_0700.tif 
+    0.2009
+
+    0.2856
+
+dev_0701.tif
+CAGIdev_0701.tif
+    0.6559
+
+dev_0703.tif
+No map for dev_0703.tif 
+    0.3937
+
+    0.3895
+
+dev_0704.tif
+CAGI INVdev_0704.tif
+    0.4731
+
+dev_0705.tif
+No map for dev_0705.tif 
+    0.1815
+
+    0.3495
+
+dev_0706.tif
+CAGI INVdev_0706.tif
+    0.4550
+
+dev_0711.tif
+No map for dev_0711.tif 
+    0.1581
+
+    0.3449
+
+dev_0712.tif
+ADQ2
+dev_0713.tif
+CAGI INVdev_0713.tif
+    0.4672
+
+dev_0714.tif
+ADQ2
+dev_0715.tif
+No map for dev_0715.tif 
+    0.2631
+
+    0.3529
+
+dev_0717.tif
+No map for dev_0717.tif 
+    0.1041
+
+    0.0970
+
+dev_0718.tif
+ADQ2
+dev_0719.tif
+Trasparency in dev_0719.tif
+dev_0724.tif
+No map for dev_0724.tif 
+    0.1963
+
+    0.1838
+
+dev_0725.tif
+No map for dev_0725.tif 
+    0.1792
+
+    0.3366
+
+dev_0728.tif
+Trasparency in dev_0728.tif
+dev_0730.tif
+ADQ2
+dev_0733.tif
+No map for dev_0733.tif 
+    0.2542
+
+    0.2686
+
+dev_0734.tif
+No map for dev_0734.tif 
+    0.4407
+
+    0.2741
+
+dev_0736.tif
+No map for dev_0736.tif 
+    0.4435
+
+    0.3248
+
+dev_0738.tif
+No map for dev_0738.tif 
+    0.1055
+
+    0.2094
+
+dev_0740.tif
+ADQ2
+dev_0741.tif
+No map for dev_0741.tif 
+    0.1965
+
+    0.2921
+
+dev_0742.tif
+No map for dev_0742.tif 
+    0.3222
+
+    0.2035
+
+dev_0743.tif
+No map for dev_0743.tif 
+    0.2492
+
+    0.2721
+
+dev_0745.tif
+No map for dev_0745.tif 
+    0.2495
+
+    0.2716
+
+dev_0746.tif
+ADQ2
+dev_0747.tif
+CAGIdev_0747.tif
+    0.5007
+
+dev_0748.tif
+ADQ2
+dev_0749.tif
+ADQ2
+dev_0750.tif
+No map for dev_0750.tif 
+    0.3160
+
+    0.2743
+
+dev_0752.tif
+No map for dev_0752.tif 
+    0.1531
+
+    0.3500
+
+dev_0753.tif
+No map for dev_0753.tif 
+    0.3637
+
+    0.3854
+
+dev_0755.tif
+CAGI INVdev_0755.tif
+    0.4411
+
+dev_0756.tif
+No map for dev_0756.tif 
+    0.2851
+
+    0.2564
+
+dev_0759.tif
+No map for dev_0759.tif 
+    0.2840
+
+    0.3127
+
+dev_0760.tif
+No map for dev_0760.tif 
+    0.2770
+
+    0.2220
+
+dev_0761.tif
+No map for dev_0761.tif 
+    0.2875
+
+    0.2308
+
+dev_0762.tif
+No map for dev_0762.tif 
+    0.2413
+
+    0.2892
+
+dev_0763.tif
+No map for dev_0763.tif 
+    0.2767
+
+    0.3605
+
+dev_0767.tif
+No map for dev_0767.tif 
+    0.3309
+
+    0.1270
+
+dev_0768.tif
+No map for dev_0768.tif 
+    0.1592
+
+    0.3846
+
+dev_0769.tif
+CAGI INVdev_0769.tif
+    0.4402
+
+dev_0770.tif
+ADQ2
+dev_0771.tif
+ADQ2
+dev_0772.tif
+No map for dev_0772.tif 
+    0.1472
+
+    0.2877
+
+dev_0773.tif
+ADQ2
+dev_0775.tif
+ADQ2
+dev_0776.tif
+CAGIdev_0776.tif
+    0.5947
+
+dev_0777.tif
+CAGI INVdev_0777.tif
+    0.3981
+
+dev_0778.tif
+ADQ2
+dev_0779.tif
+CAGI INVdev_0779.tif
+    0.4699
+
+dev_0780.tif
+CAGI INVdev_0780.tif
+    0.5335
+
+dev_0781.tif
+ADQ2
+dev_0782.tif
+No map for dev_0782.tif 
+    0.4546
+
+    0.2437
+
+dev_0785.tif
+ADQ2
+dev_0787.tif
+No map for dev_0787.tif 
+    0.2027
+
+    0.3266
+
+dev_0788.tif
+CAGI INVdev_0788.tif
+    0.4433
+
+dev_0789.tif
+CAGI INVdev_0789.tif
+    0.4599
+
+dev_0790.tif
+ADQ2
+dev_0792.tif
+ADQ2
+dev_0793.tif
+No map for dev_0793.tif 
+    0.2385
+
+    0.2904
+
+dev_0794.tif
+ADQ2
+dev_0796.tif
+ADQ2
+dev_0797.tif
+No map for dev_0797.tif 
+    0.2877
+
+    0.2111
+
+dev_0799.tif
+ADQ2
+dev_0800.tif
+No map for dev_0800.tif 
+    0.2012
+
+    0.3560
