@@ -4,6 +4,8 @@ Second competition of "Data Hiding" course held by professor G. Boato, Universit
 
 ## Collaborators
 
-Zeno Sambugaro (@zenosambu)
-Matteo Proch
-Matteo Zanoni
+- Zeno Sambugaro (@zenosambu)
+
+- Matteo Proch
+
+- Matteo Zanoni
